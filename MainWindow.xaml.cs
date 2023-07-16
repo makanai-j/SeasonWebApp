@@ -315,7 +315,7 @@ namespace _0H05026_蒔苗純平_uiux01
         //参考URL:https://chigusa-web.com/blog/csharp-chatgpt-api/
         private async Task chatGptAsync(string pp)
         {
-            var api = new OpenAI_API.OpenAIAPI("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");
+            var api = new OpenAI_API.OpenAIAPI("ここに APIキー");
             var chat = api.Chat.CreateConversation();
 
             string ss = (string)season.Content;
