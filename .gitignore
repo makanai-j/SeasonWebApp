@@ -1,6 +1,6 @@
 *.exe
 0H05026_蒔苗純平_uiux01.*
-AssemblyInfo.cs
+AssemblyInfo.*
 App*
 images/
 obj/
